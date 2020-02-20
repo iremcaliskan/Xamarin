@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.deps.json
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\ref\WeatherApp.dll
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.pdb
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\ref\WeatherApp.dll
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb

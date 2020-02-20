@@ -1,0 +1,1 @@
+C:\Users\ASUS\source\repos\WeatherApp\WeatherApp.UWP\WeatherApp.UWP.csproj;x86
